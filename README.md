@@ -29,3 +29,5 @@ pip install -r requirements.txt
   
 ![image](https://github.com/ZahraneRabhi/Numerical-Analysis-/assets/88408227/17a15c33-af82-4a2d-a959-75d6121c2520)
 
+# Réferences 
+[- Tabulate: ](https://pypi.org/project/tabulate/).Utilisé pour formater les tableaux
