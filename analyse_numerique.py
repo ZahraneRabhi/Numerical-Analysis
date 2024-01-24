@@ -3,13 +3,13 @@ from tabulate import tabulate
 
 F = lambda x:  (x**3) + x - 1 # Définition du fonction f(x) = (x^3)+x−1.
 
-signe = lambda x: -1 if x < 0 else 1 # Retourne le signe d'un donnée
+signe = lambda x: -1 if x < 0 else 1 # Retourne le signe d'une valeur donnée
 
 def bissect(a, b, epsilon, max_iter):
     """
     Applique la méthode de bissection pour trouver la racine d'une fonction dans un intervalle spécifié.
     
-    Parameters:
+    Arguments:
     - a, b: intervale [a,b].
     - epsilon: valeur de précision.
     - max_iter: nombre maximal d'itérations pour éviter les boucles infinies.
