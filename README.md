@@ -6,7 +6,7 @@
 # Fichiers
 - ***bisection_method.py*** : Contient l'implémentation principale de la méthode de bissection ainsi que des définitions d'autres méthodes.
 - ***example.py*** : Un script d'exemple démontrant l'utilisation de la méthode de bissection.
-- ***requirements.txt*** : Liste les dépendances des bibliothèques externes
+- ***requirements.txt*** : Liste les dépendances des bibliothèques externes.
 
 ### Conditions préalables
 - Python Dependencies: Install the required Python packages using the following command:
@@ -30,4 +30,6 @@ pip install -r requirements.txt
 ![image](https://github.com/ZahraneRabhi/Numerical-Analysis-/assets/88408227/17a15c33-af82-4a2d-a959-75d6121c2520)
 
 # Réferences 
-[- Tabulate: ](https://pypi.org/project/tabulate/).Utilisé pour formater les tableaux
+- [ Tabulate: ](https://pypi.org/project/tabulate/).Utilisé pour formater les tableaux
+- [Méthode de dichomotie/bissection: ](https://pypi.org/project/tabulate/](https://fr.wikipedia.org/wiki/M%C3%A9thode_de_dichotomie)https://fr.wikipedia.org/wiki/M%C3%A9thode_de_dichotomie).Utilisé pour définition de la méthode et l'algorithme
+
